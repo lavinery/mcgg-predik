@@ -1,0 +1,6 @@
+
+{
+  "name": "Prediktor Lawan MCGG",
+  "description": "Aplikasi web untuk membantu memprediksi lawan Anda berikutnya di Magic Chess Go Go berdasarkan pola yang ada untuk berbagai ronde.",
+  "requestFramePermissions": []
+}
