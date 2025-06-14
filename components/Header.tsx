@@ -8,7 +8,7 @@ export const Header: React.FC = () => {
         Prediktor Lawan MCGG
       </h1>
       <p className="text-slate-400 mt-2 text-lg">
-        Susun strategi pertandingan Magic Chess Go Go Anda dengan memprediksi lawan berikutnya!
+        Prediksi Lawan MCGG by WISTAN ACADEMY
       </p>
     </header>
   );
